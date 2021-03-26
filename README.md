@@ -15,3 +15,8 @@ HackerRank is a place where programmers from all over the world come together to
 - Normally the functions done by me are either the first one on a given project or most if not all of the main one on any given project. The rest of the code is provided by HackerRank and not part of the challenge;
 - Includes might be missing. HackerRank does not require any includes to be added (with the exception of the top one);
 - I haven't added the std namespace to the projects. This one it's included by default.
+
+------------
+
+### HackerRank Profile
+[https://www.hackerrank.com/nunoslmferreira1](https://www.hackerrank.com/nunoslmferreira1)
